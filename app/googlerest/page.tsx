@@ -2,7 +2,7 @@
 
 import React from "react";
 import { useRouter } from "next/navigation";
-
+// hi
 const GoogleRestrictionPage = () => {
   const router = useRouter();
 
